@@ -53,7 +53,7 @@ ion-icon{
 }
 
 .container{
-    background-image: url(/img/bg-profile.jpg);
+    background-image: url(./img/bg-profile.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
